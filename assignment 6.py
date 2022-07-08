@@ -1,6 +1,6 @@
 #Assignment 6
-#Name: Navodit Gupta
-#SID : 21107082
+#Name: Yash Pareek
+#SID : 21107093
 #Branch: Mechanical
 
 print("Q1")
